@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  C4
+
+  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+  
+*/
+
+"greenButton" = "입력";
+"yellowButton" = "지우기";
+"redButton" = "취소";
+"yellowButtonHelp" = "입력된 시간을 지웁니다";
+"h" = "시간";
+"m" = "분";
+"s" = "초";
+"developedBy" = "Github의 rafaelSwi가 개발함";
+"quit" = "앱을 완전히 종료하려면 ⌘ + Q를 사용하세요";

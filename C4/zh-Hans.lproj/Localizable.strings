@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  C4
+
+  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+  
+*/
+
+"greenButton" = "确认";
+"yellowButton" = "清除";
+"redButton" = "取消";
+"yellowButtonHelp" = "清除已输入的时间";
+"h" = "小时";
+"m" = "分钟";
+"s" = "秒";
+"developedBy" = "由 rafaelSwi 在 Github 上开发";
+"quit" = "要完全退出应用，请使用 ⌘ + Q";

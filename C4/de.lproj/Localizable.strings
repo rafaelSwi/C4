@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  C4
+
+  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+  
+*/
+
+"greenButton" = "EINGABE";
+"yellowButton" = "LÖSCHEN";
+"redButton" = "ABBRECHEN";
+"yellowButtonHelp" = "Löscht die eingegebene Zeit";
+"h" = "Stunden";
+"m" = "Minuten";
+"s" = "Sekunden";
+"developedBy" = "Entwickelt von rafaelSwi auf Github";
+"quit" = "Zum vollständigen Beenden der App ⌘ + Q verwenden";

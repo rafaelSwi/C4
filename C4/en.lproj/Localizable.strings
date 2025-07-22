@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  C4
+
+  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+  
+*/
+
+"greenButton" = "ENTER";
+"yellowButton" = "CLEAR";
+"redButton" = "CANCEL";
+"yellowButtonHelp" = "Clears entered time";
+"h" = "Hours";
+"m" = "Minutes";
+"s" = "Seconds";
+"developedBy" = "Developed by rafaelSwi on Github";
+"quit" = "To completely quit the app use ⌘ + Q";
