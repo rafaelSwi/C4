@@ -18,8 +18,6 @@ class MacControlManager {
 
         self.remainingTime = TimeInterval(durationInSeconds)
 
-        print("Timer iniciado para \(durationInSeconds) segundos.")
-
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(updateTimer), userInfo: nil, repeats: true)
         RunLoop.current.add(timer!, forMode: .common)
     }
@@ -28,14 +26,12 @@ class MacControlManager {
         timer?.invalidate()
         timer = nil
         remainingTime = 0
-        print("Timer cancelado.")
     }
 
     @objc private func updateTimer() {
         remainingTime -= 1
         let minutes = Int(remainingTime) / 60
         let seconds = Int(remainingTime) % 60
-        print(String(format: "Tempo restante: %02d:%02d", minutes, seconds))
 
         if remainingTime <= 0 {
             timer?.invalidate()

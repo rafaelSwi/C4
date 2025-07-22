@@ -62,7 +62,6 @@ struct FrontEndView: View {
         }
     }
     
-    // Subview para entrada de tempo com botões de mais e menos
     @ViewBuilder
     private func timeInputWithSteppers(label: String, value: Binding<String>) -> some View {
         VStack(spacing: 4) {
@@ -105,7 +104,6 @@ struct FrontEndView: View {
         }
     }
     
-    // Subview para botões físicos
     @ViewBuilder
     private func physicalButton(text: String, color: Color, action: @escaping () -> Void) -> some View {
         VStack {
