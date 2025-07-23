@@ -15,3 +15,5 @@
 "s" = "ثوانٍ";
 "developedBy" = "تم التطوير بواسطة rafaelSwi على Github";
 "quit" = "لإنهاء التطبيق تمامًا، استخدم ⌘ + Q";
+"touchBarStart" = "زرع";
+"touchBarCancel" = "تفكيك";

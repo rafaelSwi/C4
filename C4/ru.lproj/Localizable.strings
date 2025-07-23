@@ -15,3 +15,5 @@
 "s" = "Секунды";
 "developedBy" = "Разработано rafaelSwi на Github";
 "quit" = "Чтобы полностью выйти из приложения, используйте ⌘ + Q";
+"touchBarStart" = "Установить";
+"touchBarCancel" = "Обезвредить";

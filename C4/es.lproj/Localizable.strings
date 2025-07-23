@@ -6,12 +6,14 @@
   
 */
 
-"greenButton" = "COMENZAR";
-"yellowButton" = "BORRAR";
-"redButton" = "CANCELAR";
+"greenButton" = "ENTER";
+"yellowButton" = "CLEAR";
+"redButton" = "CANCEL";
 "yellowButtonHelp" = "Borra la hora introducida";
 "h" = "Horas";
 "m" = "Minutos";
 "s" = "Segundos";
 "developedBy" = "Desarrollado por rafaelSwi en Github";
 "quit" = "Para salir completamente de la aplicación, usa ⌘ + Q";
+"touchBarStart" = "Colocar";
+"touchBarCancel" = "Desactivar";

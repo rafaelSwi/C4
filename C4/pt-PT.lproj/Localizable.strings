@@ -7,13 +7,13 @@
 */
 
 "greenButton" = "ENTER";
-"yellowButton" = "CLEAR";
+"yellowButton" = "LIMPAR";
 "redButton" = "CANCEL";
-"yellowButtonHelp" = "Limpa o tempo inserido";
+"yellowButtonHelp" = "Limpa o tempo introduzido";
 "h" = "Horas";
 "m" = "Minutos";
 "s" = "Segundos";
 "developedBy" = "Desenvolvido por rafaelSwi no Github";
-"quit" = "Para totalmente fechar o programa use ⌘ + Q";
+"quit" = "Para sair completamente, use ⌘ + Q";
 "touchBarStart" = "Plantar";
-"touchBarCancel" = "Defusar";
+"touchBarCancel" = "Desarmar";

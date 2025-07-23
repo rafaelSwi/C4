@@ -15,3 +15,5 @@
 "s" = "Sekunder";
 "developedBy" = "Utvecklat av rafaelSwi på Github";
 "quit" = "För att avsluta appen helt, använd ⌘ + Q";
+"touchBarStart" = "Plantera";
+"touchBarCancel" = "Desarmera";

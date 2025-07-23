@@ -15,3 +15,5 @@
 "s" = "秒";
 "developedBy" = "GithubのrafaelSwiによって開発されました";
 "quit" = "アプリを完全に終了するには ⌘ + Q を使用してください";
+"touchBarStart" = "設置";
+"touchBarCancel" = "解除";

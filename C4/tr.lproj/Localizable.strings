@@ -15,3 +15,5 @@
 "s" = "Saniye";
 "developedBy" = "Github'da rafaelSwi tarafından geliştirildi";
 "quit" = "Uygulamadan tamamen çıkmak için ⌘ + Q kullanın";
+"touchBarStart" = "Yerleştir";
+"touchBarCancel" = "İmha Et";

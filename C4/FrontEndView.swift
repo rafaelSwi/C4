@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct FrontEndView: View {
-    @StateObject private var viewModel = FrontEndViewModel()
+    @ObservedObject var viewModel: FrontEndViewModel
     
     var body: some View {
         ZStack {
@@ -60,6 +60,7 @@ struct FrontEndView: View {
             }
             .padding()
         }
+        
     }
     
     @ViewBuilder

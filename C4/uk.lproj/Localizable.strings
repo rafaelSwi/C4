@@ -15,3 +15,5 @@
 "s" = "Секунди";
 "developedBy" = "Розроблено rafaelSwi на Github";
 "quit" = "Щоб повністю вийти з додатку, натисніть ⌘ + Q";
+"touchBarStart" = "Встановити";
+"touchBarCancel" = "Знешкодити";

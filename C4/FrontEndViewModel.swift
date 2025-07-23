@@ -19,6 +19,7 @@ class FrontEndViewModel: ObservableObject {
     private var timer: Timer?
     
     func startTimer() {
+        
         guard let h = Int(inputHours), let m = Int(inputMinutes), let s = Int(inputSeconds) else {
             return
         }

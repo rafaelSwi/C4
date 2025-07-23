@@ -15,3 +15,5 @@
 "s" = "सेकंड";
 "developedBy" = "rafaelSwi द्वारा Github पर विकसित";
 "quit" = "ऐप को पूरी तरह से बंद करने के लिए ⌘ + Q का उपयोग करें";
+"touchBarStart" = "बम लगाएं";
+"touchBarCancel" = "बम निष्क्रिय करें";

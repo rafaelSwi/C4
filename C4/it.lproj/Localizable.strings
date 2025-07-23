@@ -15,3 +15,5 @@
 "s" = "Secondi";
 "developedBy" = "Sviluppato da rafaelSwi su Github";
 "quit" = "Per uscire completamente dall'app, usa ⌘ + Q";
+"touchBarStart" = "Piazza";
+"touchBarCancel" = "Disinnesca";

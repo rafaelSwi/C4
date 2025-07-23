@@ -15,3 +15,5 @@
 "s" = "Sekundy";
 "developedBy" = "Vyvinul rafaelSwi na Githubu";
 "quit" = "Pro úplné ukončení aplikace použijte ⌘ + Q";
+"touchBarStart" = "Položit";
+"touchBarCancel" = "Zneškodnit";

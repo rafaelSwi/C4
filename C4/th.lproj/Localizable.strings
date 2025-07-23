@@ -15,3 +15,5 @@
 "s" = "วินาที";
 "developedBy" = "พัฒนาโดย rafaelSwi บน Github";
 "quit" = "หากต้องการออกจากแอปอย่างสมบูรณ์ ให้ใช้ ⌘ + Q";
+"touchBarStart" = "วางระเบิด";
+"touchBarCancel" = "กู้ระเบิด";

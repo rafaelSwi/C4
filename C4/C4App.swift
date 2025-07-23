@@ -7,11 +7,15 @@
 
 import SwiftUI
 
+import SwiftUI
+
 @main
 struct C4App: App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    
     var body: some Scene {
         WindowGroup {
-            FrontEndView()
+            FrontEndView(viewModel: appDelegate.viewModel)
         }
         .defaultSize(CGSize(width: 400, height: 400))
         

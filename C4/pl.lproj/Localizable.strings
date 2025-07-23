@@ -15,3 +15,5 @@
 "s" = "Sekundy";
 "developedBy" = "Opracowane przez rafaelSwi na Githubie";
 "quit" = "Aby całkowicie zamknąć aplikację, użyj ⌘ + Q";
+"touchBarStart" = "Podłóż";
+"touchBarCancel" = "Rozbrój";

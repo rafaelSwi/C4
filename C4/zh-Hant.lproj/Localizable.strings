@@ -15,3 +15,5 @@
 "s" = "秒";
 "developedBy" = "由 rafaelSwi 在 Github 上開發";
 "quit" = "若要完全退出應用程式，請使用 ⌘ + Q";
+"touchBarStart" = "安放";
+"touchBarCancel" = "拆除";

@@ -15,3 +15,5 @@
 "s" = "Sekunden";
 "developedBy" = "Entwickelt von rafaelSwi auf Github";
 "quit" = "Zum vollständigen Beenden der App ⌘ + Q verwenden";
+"touchBarStart" = "Platzieren";
+"touchBarCancel" = "Entschärfen";
