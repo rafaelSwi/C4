@@ -2,7 +2,7 @@
   Localizable.strings
   C4
 
-  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+  Created by Xbox Mil Grau on 22/07/25.
   
 */
 
@@ -13,7 +13,7 @@
 "h" = "Stunden";
 "m" = "Minuten";
 "s" = "Sekunden";
-"developedBy" = "Entwickelt von rafaelSwi auf Github";
+"developedBy" = "Entwickelt von Xbox Mil Grau auf Github";
 "quit" = "Zum vollständigen Beenden der App ⌘ + Q verwenden";
 "touchBarStart" = "Platzieren";
 "touchBarCancel" = "Entschärfen";

@@ -2,22 +2,22 @@
 //  TouchBarController.swift
 //  C4
 //
-//  Created by Rafael Neuwirth Swierczynski on 22/07/25.
+//  Created by Xbox Mil Grau on 22/07/25.
 //
 
 import AppKit
 
 extension NSTouchBarItem.Identifier {
-    static let timerLabel = NSTouchBarItem.Identifier("rafaelSwi.C4.timerLabel")
+    static let timerLabel = NSTouchBarItem.Identifier("Xbox Mil Grau.C4.timerLabel")
 }
 
 class TouchBarController: NSObject, NSTouchBarDelegate {
     var viewModel: FrontEndViewModel?
 
     private enum TouchBarItemIdentifiers {
-        static let timerLabel = NSTouchBarItem.Identifier("rafaelSwi.timerLabel")
-        static let startButton = NSTouchBarItem.Identifier("rafaelSwi.startButton")
-        static let cancelButton = NSTouchBarItem.Identifier("rafaelSwi.cancelButton")
+        static let timerLabel = NSTouchBarItem.Identifier("Xbox Mil Grau.timerLabel")
+        static let startButton = NSTouchBarItem.Identifier("Xbox Mil Grau.startButton")
+        static let cancelButton = NSTouchBarItem.Identifier("Xbox Mil Grau.cancelButton")
         
     }
 
